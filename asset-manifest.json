@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TVmazen/static/css/main.237726bf.css",
+    "main.js": "/TVmazen/static/js/main.dea9f065.js",
+    "static/js/787.1cddf1d8.chunk.js": "/TVmazen/static/js/787.1cddf1d8.chunk.js",
+    "static/media/img16.jpg": "/TVmazen/static/media/img16.9710807f6797b2d9c402.jpg",
+    "index.html": "/TVmazen/index.html",
+    "main.237726bf.css.map": "/TVmazen/static/css/main.237726bf.css.map",
+    "main.dea9f065.js.map": "/TVmazen/static/js/main.dea9f065.js.map",
+    "787.1cddf1d8.chunk.js.map": "/TVmazen/static/js/787.1cddf1d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.237726bf.css",
+    "static/js/main.dea9f065.js"
+  ]
+}
